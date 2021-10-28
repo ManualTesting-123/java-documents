@@ -1,0 +1,20 @@
+package session2;
+
+public class forloop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+/*for(int i=0;i<=10;i++)
+{
+	System.out.println(i);
+}*/
+		int i=1;
+		for(;i<=5;)
+		{
+			System.out.println(i);
+			i++;
+		}
+		}
+	}
+
+
